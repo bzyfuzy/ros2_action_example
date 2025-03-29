@@ -1,0 +1,47 @@
+# ROS 2 build artifacts
+build/
+install/
+log/
+
+# Compiled files
+*.so
+*.o
+*.a
+*.pyc
+*.swp
+*.swo
+*.d
+
+# Editor files
+.vscode/
+.idea/
+*.code-workspace
+*.swp
+*.swo
+
+# Build system files
+compile_commands.json
+CMakeCache.txt
+CMakeFiles/
+Makefile
+*.cmake
+*.ninja
+.ninja_deps
+.ninja_log
+
+# Local environment files
+.env
+.local
+*.local
+
+# Documentation
+docs/_build/
+*.egg-info/
+*.eggs/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Test artifacts
+test_results/

@@ -1,0 +1,8 @@
+# Goal definition
+int32 target
+---
+# Result definition
+bool success
+---
+# Feedback definition
+int32 progress  
